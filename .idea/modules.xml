@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Xiangmuer.iml" filepath="$PROJECT_DIR$/Xiangmuer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appLiangYingHao/appLiangYingHao.iml" filepath="$PROJECT_DIR$/appLiangYingHao/appLiangYingHao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0831/day0831.iml" filepath="$PROJECT_DIR$/day0831/day0831.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0831gilde/day0831gilde.iml" filepath="$PROJECT_DIR$/day0831gilde/day0831gilde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0901property/day0901property.iml" filepath="$PROJECT_DIR$/day0901property/day0901property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0901recycle/day0901recycle.iml" filepath="$PROJECT_DIR$/day0901recycle/day0901recycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0901test/day0901test.iml" filepath="$PROJECT_DIR$/day0901test/day0901test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0904/day0904.iml" filepath="$PROJECT_DIR$/day0904/day0904.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daydasd/daydasd.iml" filepath="$PROJECT_DIR$/daydasd/daydasd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpday0831/httpday0831.iml" filepath="$PROJECT_DIR$/httpday0831/httpday0831.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news/news.iml" filepath="$PROJECT_DIR$/news/news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycle0831/recycle0831.iml" filepath="$PROJECT_DIR$/recycle0831/recycle0831.iml" />
+    </modules>
+  </component>
+</project>

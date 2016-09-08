@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.studyjamscn.s1.sj30.liangyinghao">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="cn.studyjamscn.s1.sj30.liangyinghao.activity.MainAct"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="cn.studyjamscn.s1.sj30.liangyinghao.activity.GameDetailAct" />
+        <activity android:name="cn.studyjamscn.s1.sj30.liangyinghao.activity.GameBackgroundAct" />
+        <activity android:name="cn.studyjamscn.s1.sj30.liangyinghao.activity.GameSkillAct" />
+        <activity android:name="cn.studyjamscn.s1.sj30.liangyinghao.activity.GameTrickAct" />
+    </application>
+
+</manifest>

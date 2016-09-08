@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gdact_relativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/title"/>
+
+    <Button
+        android:id="@+id/gdact_btn_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="背景"
+        android:textSize="30sp"
+        android:layout_marginBottom="16dp"
+        android:layout_above="@+id/gdact_btn_skill"
+        android:layout_alignLeft="@+id/gdact_btn_skill" />
+
+    <Button
+        android:id="@+id/gdact_btn_skill"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="技能"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/gdact_btn_trick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="技巧"
+        android:textSize="30sp"
+        android:layout_marginTop="16dp"
+        android:layout_below="@+id/gdact_btn_skill"
+        android:layout_alignLeft="@+id/gdact_btn_skill" />
+
+</RelativeLayout>
